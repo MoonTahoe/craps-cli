@@ -1,0 +1,26 @@
+{
+  "name": "craps-cli",
+  "version": "0.0.1",
+  "description": "A simple craps game that can be played from the command line.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha -R list --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoonTahoe/craps-cli.git"
+  },
+  "keywords": [
+    "Craps",
+    "Node",
+    "js",
+    "tutorial",
+    "cli"
+  ],
+  "author": "Moon Highway (Alex Banks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoonTahoe/craps-cli/issues"
+  },
+  "homepage": "https://github.com/MoonTahoe/craps-cli"
+}
