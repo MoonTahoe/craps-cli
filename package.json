@@ -1,6 +1,6 @@
 {
   "name": "craps-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple craps game that can be played from the command line.",
   "main": "app.js",
   "scripts": {
@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/MoonTahoe/craps-cli/issues"
   },
-  "homepage": "https://github.com/MoonTahoe/craps-cli"
+  "homepage": "https://github.com/MoonTahoe/craps-cli",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "0.0.15",
+    "grunt-contrib-jshint": "^0.10.0",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
 }
