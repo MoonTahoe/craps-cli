@@ -15,10 +15,3 @@ Installation
 3. Run the App
 
         $ npm start
-
-Next Steps
-----------
-* Click spacebar to roll
-* Incorporate Colors
-* Generate Documentation
-* Break out into branches
