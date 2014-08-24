@@ -6,15 +6,15 @@ Installation
 ------------
 1. Install the dependencies
 
-    $ npm install
+        $ npm install
     
 2. Run the tests
 
-    $ npm test
+        $ npm test
     
 3. Run the App
 
-    $ npm start
+        $ npm start
 
 Next Steps
 ----------
