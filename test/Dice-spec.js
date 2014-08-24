@@ -1,5 +1,5 @@
-var Die = require('../Dice').Die,
-    Dice = require('../Dice').Dice,
+var Die = require('../lib/Dice').Die,
+    Dice = require('../lib/Dice').Dice,
     should = require('should');
 
 var die, dice;

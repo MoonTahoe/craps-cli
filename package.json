@@ -4,6 +4,7 @@
   "description": "A simple craps game that can be played from the command line.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "grunt check; mocha -R list --recursive"
   },
   "repository": {

@@ -1,4 +1,4 @@
-var Craps = require('./craps').Craps,
+var Craps = require('./lib/craps').Craps,
     readline = require('readline');
 
 var rl = readline.createInterface({
@@ -60,6 +60,6 @@ game.on('loose', function() {
 
 });
 
-start(game);
-
 console.log("Welcome to the craps table!");
+
+start(game);
